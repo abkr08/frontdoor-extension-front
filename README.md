@@ -9,6 +9,7 @@ The Highlight Chrome extension allows you to highlight and tag text on any webpa
 1. Clone the the frontend and backend repository to your local machine:
 
 git clone https://github.com/abkr08/frontdoor-extension-front.git
+
 git clone https://github.com/abkr08/frontdoor-extension-backend.git
 
 2. Open the Chrome browser and navigate to `chrome://extensions`.
