@@ -39,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-This extension was inspired by the [Web-Highlighter]() extension by Marius Bongarts.
+This extension was inspired by the [Web-Highlighter](https://web-highlights.com/) extension by Marius Bongarts.
