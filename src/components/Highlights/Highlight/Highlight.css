@@ -1,0 +1,21 @@
+.highlight-container {
+    padding: 8px;
+    text-align: justify;
+    border-top: 1px solid rgba(242, 242, 242, 1);;
+}
+
+.text {
+    margin: 8px 6px 8px 2px;
+    padding-left: 10px;
+    width: 90%;
+    cursor: pointer;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.tags-container {
+    width: 90%;
+    padding-left: 10px;
+}

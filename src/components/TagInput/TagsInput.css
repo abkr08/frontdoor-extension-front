@@ -1,0 +1,66 @@
+.react-tagsinput-input {
+    margin: 0;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 0.25rem;
+    width: 100%;
+    -webkit-transition: border 0.1s linear, background-color 0.1s linear;
+    transition: border 0.1s linear, background-color 0.1s linear;
+    display: block;
+    padding: 0 1rem 0 0.75rem;
+    line-height: 1.875rem;
+    min-height: 2.5rem;
+    outline: none;
+  }
+  
+.slds-pill {
+    background: lightgray;
+    color: black;
+    font-size: 15px;
+    margin: 1px !important;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    line-height: 1.5;
+    max-width: 100%;
+    padding: 0.125rem;
+    border: 1px solid lightgray;
+    border-radius: 0.25rem;
+    position: relative;
+    min-height: 1.625rem;
+  }
+  
+ .slds-pill .slds-icon {
+    color: black;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    width: 0.875rem;
+    height: 0.875rem;
+  }
+  
+.slds-pill__label {
+    margin-top: 0;
+  }
+
+  .tag {
+    background-color: #f5f5f5;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+    color: #000;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px 7px 0 10px;
+    border-radius: 3px;
+  }
+
+  svg {
+    height: 15px;
+    margin-left: 5px;
+  }
